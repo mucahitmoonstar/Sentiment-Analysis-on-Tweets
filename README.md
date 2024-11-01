@@ -19,7 +19,7 @@ text: the text of the tweet (Lyx is cool)
 
 https://www.kaggle.com/datasets/kazanova/sentiment140**
 
-![Uploading twitterdataset.jpg…]()
+![twitterdataset](https://github.com/user-attachments/assets/8e8ca7f5-66b5-4df9-b985-f0e1c5937751)
 
 
 
