@@ -17,9 +17,10 @@ user: the user that tweeted (robotickilldozr)
 
 text: the text of the tweet (Lyx is cool)
 
-**https://www.kaggle.com/datasets/kazanova/sentiment140**![Uploading twitterdataset.jpg…]()
+https://www.kaggle.com/datasets/kazanova/sentiment140**
 
-https://www.kaggle.com/datasets/kazanova/sentiment140
+![Uploading twitterdataset.jpg…]()
+
 
 
 **GOAL**
